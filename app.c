@@ -609,18 +609,6 @@ int main(){
             continue;
         }
     }
-
-
-
-
-    // printf("jumlah baris -1 header: %d\n", jumlah_baris_file);
-
-    // for(int i = 0; i < jumlah_baris_file; i++){
-    //     printf("%s,%s,%d,%d,%d,%d,%s,%s\n",
-    //         house[i].location, house[i].city, house[i].price, house[i].room, house[i].bathroom, house[i].carpark, house[i].type, house[i].furnish
-    //     );
-    // }
-
     
     return 0;
 }
